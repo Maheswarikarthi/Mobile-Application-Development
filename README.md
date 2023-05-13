@@ -22,11 +22,13 @@ Step 6: Display message give in MainActivity file.
 Step 7: Save and run the application.
 
 PROGRAM:
+```
 /*
 Program to print the text “Hello World”.
 Developed by:Maheswari K
 Registeration Number :212221040096
 */
+```
 ```
 Activity_main.xml:-
 
