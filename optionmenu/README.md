@@ -22,9 +22,9 @@ Step 5: Design layout in activity_main.xml.
 
 Step 6: Design option layout in option.xml.
 
-Step 6: Add and Display option menu in MainActivity file.
+Step 7: Add and Display option menu in MainActivity file.
 
-Step 7: Save and run the application.
+Step 8: Save and run the application.
 
 
 ## PROGRAM:
