@@ -22,9 +22,9 @@ Step 5: Design layout in activity_main.xml.
 
 Step 6: Design other operations layout in respective .xml files.
 
-Step 6: Get images details and Add animations in MainActivity file.
+Step 7: Get images details and Add animations in MainActivity file.
 
-Step 7: Save and run the application.
+Step 8: Save and run the application.
 
 
 ## PROGRAM:
